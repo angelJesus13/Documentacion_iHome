@@ -1,2 +1,2 @@
-# Documentaci-n_iHome
+# Documentación_iHome
 Documentacion del proyecto iHome
