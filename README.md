@@ -1,16 +1,13 @@
 # Proyecto Casa Inteligente
-
+Autores principales del proyecto enlace (https://github.com/UTXJ-TI/iHome) adaptado por 5 A DSM 
 #  Descripción:
 iHome es un sistema de automatización del hogar basado en IoT (Internet de las Cosas), diseñado para mejorar la comodidad y eficiencia energética de los usuarios. Integra dispositivos de hardware inteligentes, como luces, electrodomésticos, cerraduras y sensores, con un backend robusto y un frontend intuitivo. Esto permite a los usuarios controlar y monitorear su hogar de forma remota a través de aplicaciones móviles y web.
 
 ---
 # Logos
 <p align="center">
-  <img src="/Assets/iHome.png" width="350">
+  <img src="/Assets/iHome.png" width="300">
 </p>
----
-
-
 
 ## integrantes
 
